@@ -188,11 +188,6 @@ goredis/
 
 ---
 
-## 📜 License
-
-MIT License — see [LICENSE](./LICENSE)
-
----
 
 <p align="center">
   <strong>Built with ❤️ for learning networking and concurrency in Go</strong>
