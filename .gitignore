@@ -1,3 +1,5 @@
-BEGINNER_GUIDE.md
-DEEP_DIVE.md
-INTERVIEW_PLAYBOOK.md
+bin/
+*.aof
+*.aof.tmp
+.DS_Store
+INTERVIEW_READY.md
